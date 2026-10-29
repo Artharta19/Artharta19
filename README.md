@@ -1,5 +1,5 @@
-<h1 align="center">IT's ME Artharta</h1>
-<h3 align="center">A student who just wants to document his entire journey on a simple GitHub page. still learning C and C++, and also wants to dive into the world of web development—maybe as a full-stack developer.</h3>
+<h1 align="center">Artharta</h1>
+<p align="left">A student who just wants to document his entire journey on a simple GitHub page. still learning C and C++, and also wants to dive into the world of web development—maybe as a full-stack developer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artharta19&label=Profile%20views&color=0e75b6&style=flat" alt="artharta19" /> </p>
 
