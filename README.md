@@ -1,4 +1,9 @@
 <h1 align="center">Artharta</h1>
+<picture>
+  <source media="(max-width: 400px)" srcset="Banner-accent.png">      <!-- easter egg: tiny screens only -->
+  <source media="(prefers-color-scheme: dark)" srcset="Banner-dark.png"> <!-- everyone in dark mode -->
+  <img src="Banner-light.png" alt="banner" width="100%" />            <!-- light mode fallback -->
+</picture>
 <p align="left">A student who just wants to document his entire journey on a simple GitHub page. still learning C and C++, and also wants to dive into the world of web development—maybe as a full-stack developer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artharta19&label=Profile%20views&color=0e75b6&style=flat" alt="artharta19" /> </p>
